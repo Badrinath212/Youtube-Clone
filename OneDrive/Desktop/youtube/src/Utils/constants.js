@@ -1,0 +1,10 @@
+export const HANDLER_ICON="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4p1J3Jj0kf_BEvSDv6-zq0jApx7lIeEU3A&usqp=CAU";
+export const YOUTUBE_LOGO="https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.webp";
+export const USER_ICON="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLvQdF0ZuD5uce9q0bpiaQiNGo4AgbIdqvhOUjg3ilg&s";
+export const SEARCH_ICON="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5gJN7JtWoSjpa0ZUzEPYgVOTRyb_7PtbBQ&s";
+export const SEARCH_API='https://youtube.googleapis.com/youtube/v3/search?q=india&maxResults=50&key=';
+export const API_KEY="AIzaSyBS4nhygbWfi6je_hdcr4ochQJckanpl-U";
+export const MOST_POPULAR_API=" https://youtube.googleapis.com/youtube/v3/videos?part=snippet&part=statistics&chart=mostPopular&&maxResults=50&key=";
+export const YOUTUBE_SEARCH_API="http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+export const LIKE_ICON="https://media.istockphoto.com/id/1136351242/vector/like-social-media-hand-line-icon-editable-stroke-pixel-perfect-for-mobile-and-web.jpg?s=612x612&w=0&k=20&c=OnKkq5JCHkLvZ1Ck_njtTQMCyLljXsXGNhGqVpwwVUA=";
+export const DISLIKE_ICON="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiAsjj0J7Vty2CCDw0VASFwDjxUYquetb3g&s";
